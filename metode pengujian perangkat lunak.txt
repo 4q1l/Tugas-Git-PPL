@@ -1,0 +1,19 @@
+Pengujian Regresi
+
+Pengujian Regresi bertujuan untuk memastikan bahwa perubahan atau penambahan fitur baru dalam perangkat lunak tidak menyebabkan kerusakan atau masalah pada fitur yang telah ada sebelumnya. Metode ini sangat penting dalam memastikan stabilitas dan konsistensi perangkat lunak seiring waktu.
+
+Berikut adalah langkah-langkah umum dalam Pengujian Regresi:
+
+1. **Identifikasi Kasus Uji yang Relevan:** Tim pengujian akan memilih kasus uji yang mencakup berbagai fitur dan fungsionalitas yang telah ada sebelumnya. Kasus uji ini akan digunakan untuk memverifikasi bahwa perubahan baru tidak mengganggu fitur yang sudah ada.
+
+2. **Eksekusi Kasus Uji:** Kasus uji yang telah dipilih akan dijalankan terhadap versi terbaru perangkat lunak yang mengandung perubahan atau penambahan fitur baru. Pengujian akan melibatkan pengujian fungsional, termasuk pengujian unit (jika diperlukan), pengujian integrasi, dan pengujian fungsional keseluruhan.
+
+3. **Pemantauan dan Verifikasi:** Hasil eksekusi kasus uji akan dipantau dengan seksama. Tim pengujian akan memeriksa apakah perubahan baru menyebabkan cacat, kesalahan, atau masalah dalam fitur yang telah ada sebelumnya.
+
+4. **Analisis Hasil:** Jika ada perubahan yang berdampak negatif pada fitur yang sudah ada, tim pengujian akan mendokumentasikan masalah-masalah tersebut dan berkolaborasi dengan tim pengembangan untuk memperbaikinya.
+
+5. **Automasi Pengujian:** Dalam beberapa kasus, pengujian regresi dapat diotomatisasi dengan menggunakan alat pengujian otomatis. Ini membantu mengidentifikasi perubahan yang tidak diinginkan dengan cepat dan secara konsisten.
+
+6. **Pengujian Siklus Berulang:** Pengujian regresi perlu dilakukan secara berkala, terutama ketika ada perubahan signifikan dalam perangkat lunak. Setiap kali ada pembaruan atau penambahan fitur baru, pengujian regresi harus dilakukan untuk memastikan keseluruhan kestabilan perangkat lunak.
+
+Pengujian Regresi membantu meminimalkan risiko kerusakan pada fitur yang sudah ada sebelumnya dan memastikan bahwa perubahan yang diterapkan pada perangkat lunak tidak mengganggu kinerja atau fungsionalitas yang telah ada sebelumnya. Hal ini membantu menjaga kualitas perangkat lunak seiring perkembangan dan pemeliharaan.

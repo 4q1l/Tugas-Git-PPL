@@ -1,8 +1,8 @@
 1. Sistem apa yang anda kembangkan pada mata kuliah ini?
-Jawab:
+Jawab: Sistem informasi penjualan online untuk digunakan pada sebuah toko furniture menggunakan metodologi Incremental
 
 2. Apa tujuan anda mengembangkan sistem tersebut?
-Jawab:
+Jawab: Saya ingin agar toko furniture tidak kalah saing dengan bidang lain.
 
 3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
-Jawab:
+Jawab: Saya harap user dapat tergerak hatinya untuk membeli di toko online yang saya kembangkan
